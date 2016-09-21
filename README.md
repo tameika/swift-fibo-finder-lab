@@ -32,7 +32,7 @@ Take a moment now (or save it for a study break later) to read about the [histor
 
 ## Instructions
 
-1. Navigate to the `AppDelegate` file. Declare one function called `arrayWithFibonacciSequenceToIndex` which takes one `Int` argument called `index` and returns an `Array` of `Ints`.
+1. Navigate to the `ViewController` file. Declare one function called `arrayWithFibonacciSequenceToIndex` which takes one `Int` argument called `index` and returns an `Array` of `Ints`.
 
 5. Since the sequence requires the two previous numbers to calculate the next one, we need to prime the sequence. To do this, we're going to need to manually pass in `0` and `1` 
 
